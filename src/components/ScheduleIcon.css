@@ -1,0 +1,19 @@
+.schedule-icon-child {
+  position: absolute;
+  height: 91.25%;
+  width: 91.25%;
+  top: 4.38%;
+  right: 4.38%;
+  bottom: 4.38%;
+  left: 4.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.schedule-icon {
+  position: absolute;
+  top: 32px;
+  left: 14px;
+  width: 32px;
+  height: 32px;
+}

@@ -1,0 +1,26 @@
+.documents-icon-child,
+.group-icon2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group-icon2 {
+  height: 92.5%;
+  width: 69.58%;
+  top: 3.75%;
+  right: 15%;
+  bottom: 3.75%;
+  left: 15.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.documents-icon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}

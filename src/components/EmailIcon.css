@@ -1,0 +1,20 @@
+.os-email-mobile {
+  position: absolute;
+  height: 75%;
+  width: 100%;
+  top: 12.5%;
+  right: 0;
+  bottom: 12.5%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.email-icon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}

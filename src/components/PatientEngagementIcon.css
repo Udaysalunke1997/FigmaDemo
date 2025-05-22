@@ -1,0 +1,36 @@
+.patient-engagement-icon-child,
+.patient-engagement-icon-inner,
+.patient-engagement-icon-item {
+  position: absolute;
+  width: 91.25%;
+  right: 4.38%;
+  left: 4.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.patient-engagement-icon-child {
+  height: 35%;
+  top: 8.75%;
+  bottom: 56.25%;
+}
+.patient-engagement-icon-inner,
+.patient-engagement-icon-item {
+  bottom: 8.75%;
+}
+.patient-engagement-icon-item {
+  height: 35%;
+  top: 56.25%;
+  object-fit: contain;
+}
+.patient-engagement-icon-inner {
+  height: 82.5%;
+  top: 8.75%;
+}
+.patient-engagement-icon {
+  position: absolute;
+  top: 32px;
+  left: 14px;
+  width: 32px;
+  height: 32px;
+}

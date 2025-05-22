@@ -1,0 +1,37 @@
+.messages-icon1,
+.messages-icon2 {
+  height: 24px;
+  width: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.b {
+  position: relative;
+}
+.wrapper {
+  width: 19px;
+  box-shadow: 0 4px 4px rgba(183, 110, 0, 0.1);
+  border-radius: var(--br-20);
+  background-color: var(--Secondary-Invalid-or-Warning-Red-EB0000);
+  height: 19px;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-1) var(--padding-2);
+  box-sizing: border-box;
+}
+.notifications-icon {
+  height: 24px;
+  width: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: var(--font-size-14);
+  color: var(--Secondary-Text-FFFFFF);
+  font-family: var(--font-roboto-condensed);
+}

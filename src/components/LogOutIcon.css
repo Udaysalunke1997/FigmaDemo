@@ -1,0 +1,17 @@
+.sign-out-icon-2 {
+  position: absolute;
+  height: 78.33%;
+  width: 69.17%;
+  top: 10.83%;
+  right: 9.17%;
+  bottom: 10.83%;
+  left: 21.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.log-out-icon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}

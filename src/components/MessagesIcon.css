@@ -1,0 +1,17 @@
+.group-icon1 {
+  position: absolute;
+  height: 71.25%;
+  width: 83.33%;
+  top: 18.33%;
+  right: 8.33%;
+  bottom: 10.42%;
+  left: 8.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.messages-icon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}

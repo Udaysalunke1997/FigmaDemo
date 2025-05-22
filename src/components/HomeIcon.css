@@ -1,0 +1,17 @@
+.vector-icon2 {
+  position: absolute;
+  height: 73.75%;
+  width: 82.5%;
+  top: 12.92%;
+  right: 8.75%;
+  bottom: 13.33%;
+  left: 8.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.home-icon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}

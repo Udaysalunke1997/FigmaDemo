@@ -1,0 +1,27 @@
+.vector-icon1 {
+  position: absolute;
+  height: 60.83%;
+  width: 64.58%;
+  top: 7.08%;
+  right: 29.17%;
+  bottom: 32.08%;
+  left: 6.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.settings-icon1,
+.vector-parent {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.settings-icon2 {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}

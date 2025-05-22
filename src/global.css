@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* Color */
+  --color-silver: #c4c4c4;
+  --color-dimgray: #656d6d;
+  --color-gray: rgba(255, 255, 255, 0.01);
+  --color-black: #000;
+  --Accent-Background-FFF3E7: #fff3e7;
+  --Graphical-Elements-Inactive-State-Gray-ECECEC: #e5e5e5;
+  --Text-Disabled-E5E5E5: #e5e5e5;
+  --Secondary-Text-FFFFFF: #fff;
+  --Warning-Text-FFFFFF: #fff;
+  --Secondary-Invalid-or-Warning-Red-EB0000: #eb0000;
+
+  /* Gap */
+  --gap-8: 8px;
+  --gap-24: 24px;
+  --gap-16: 16px;
+  --gap-30: 30px;
+
+  /* Padding */
+  --padding-16: 16px;
+  --padding-2: 2px;
+  --padding-8: 8px;
+  --padding-24: 24px;
+  --padding-1: 1px;
+  --padding-20: 20px;
+
+  /* BorderRadius */
+  --br-20: 20px;
+  --br-8: 8px;
+
+  /* Font */
+  --font-roboto-condensed: Roboto Condensed;
+
+  /* FontSize */
+  --font-size-16: 16px;
+  --font-size-14: 14px;
+
+  --Standard-Drop-Shadow: 0px 4px 4px rgba(229, 229, 229, 0.25);
+}

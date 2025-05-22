@@ -1,0 +1,30 @@
+.arrow-td-down {
+  position: absolute;
+  height: 31.25%;
+  width: 75%;
+  top: 31.25%;
+  right: 12.5%;
+  bottom: 37.5%;
+  left: 12.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.root {
+  width: 16px;
+  position: relative;
+  height: 16px;
+  display: none;
+}
+.root[data-direction="Left"][data-size="Mobile"] {
+  display: unset;
+}
+.root[data-direction="Left"][data-size="Mobile"] .arrow-td-down {
+  height: 81.91%;
+  width: 36.17%;
+  top: 9.57%;
+  right: 36.17%;
+  bottom: 8.51%;
+  left: 27.66%;
+  object-fit: contain;
+}
